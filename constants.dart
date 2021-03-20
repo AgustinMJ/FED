@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 
 // Singleton class that contains a bunch of useful constants for rapid and responsive developement
-class Constants {
+class Fed {
   //Constructor
   static final Constants _singleton = Constants._internal();
 
